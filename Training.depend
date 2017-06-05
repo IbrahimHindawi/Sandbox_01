@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1496680697 source:c:\ibra'splayground\sandbox_01\training\ibrasclass.cpp
+	"IbrasClass.h"
+
+1496681619 c:\ibra'splayground\sandbox_01\training\ibrasclass.h
+	<string>
+	<iostream>
+
+1496680630 source:c:\ibra'splayground\sandbox_01\training\main.cpp
+	<iostream>
+	"IbrasClass.h"
+
